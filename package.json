@@ -1,0 +1,16 @@
+{
+  "name": "parcel-nomadcoder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:LeeByeongdo/parcel-nomadcoder.git",
+  "author": "Byeongdo Lee <Byeongdo.lee@purpleworks.co.kr>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1"
+  }
+}
